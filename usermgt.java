@@ -3,3 +3,4 @@ simon
 John
 Mark
 Legah
+manager
